@@ -1,2 +1,2 @@
 # AngularJS
-AngularJS
+AngularJS examples
